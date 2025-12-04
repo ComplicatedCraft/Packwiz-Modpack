@@ -32,9 +32,9 @@ layout_action_executable_blocks {
 }
 
 element {
-  url = https://lottie.host/embed/b9a4acee-85bc-4c46-8819-79b6977f2957/EBObOBydbf.lottie
-  interactable = true
-  hide_video_controls = false
+  url = https://logo-lootie.pages.dev/
+  interactable = false
+  hide_video_controls = true
   loop_videos = false
   mute_media = false
   media_volume = 1.0
