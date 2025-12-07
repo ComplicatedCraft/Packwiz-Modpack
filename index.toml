@@ -193,6 +193,10 @@ file = "mods/drippyloadingscreen_neoforge_3.0.12_MC_1.21.1.jar"
 hash = "a0d941bda35becbfbeaef02590cc2dd64228fa497a302292156192c2ee1e5c1e"
 
 [[files]]
+file = "mods/dye_depot-2.0.2-neoforge.jar"
+hash = "fa9d4a37d1868a30afafae301849ae69257184bb0ee46079883f255bde3d7c37"
+
+[[files]]
 file = "mods/dynamic-fps-3.9.5+minecraft-1.21.0-neoforge.LQ3K71Q1.jar"
 hash = "269ea911c14ba63c972b85f43ff4da1c940faae4e80a496d6416a5f683d1b7c2"
 
@@ -343,6 +347,10 @@ hash = "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b"
 [[files]]
 file = "mods/supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar"
 hash = "6f43f2fa77968569927edefde859f1c46d7317c5519cdcefea729e9b84342420"
+
+[[files]]
+file = "mods/supplementaries-1.21-3.4.20-neoforge.jar"
+hash = "364449c88ad36a8fe6d893c23d9d458d33b12cd710f53fe642715e80c62578fa"
 
 [[files]]
 file = "mods/toms_storage-1.21-2.2.2.jar"
