@@ -193,8 +193,8 @@ file = "mods/drippyloadingscreen_neoforge_3.0.12_MC_1.21.1.jar"
 hash = "a0d941bda35becbfbeaef02590cc2dd64228fa497a302292156192c2ee1e5c1e"
 
 [[files]]
-file = "mods/dye_depot-2.0.2-neoforge.jar"
-hash = "fa9d4a37d1868a30afafae301849ae69257184bb0ee46079883f255bde3d7c37"
+file = "mods/dye_depot-2.0.2-fix-neoforge.jar"
+hash = "105cec8d54df8fdd04e58b08fe0fd1df6968fa482607158f804371b6a30c4cc7"
 
 [[files]]
 file = "mods/dynamic-fps-3.9.5+minecraft-1.21.0-neoforge.LQ3K71Q1.jar"
@@ -287,6 +287,10 @@ hash = "2dbcf6cd837fca938323dd55114e6c515a4bb1b644a746aad504dd8d43bb0b6d"
 [[files]]
 file = "mods/modflared-1.2.2+release.81.jar"
 hash = "abf1b1262f0b888fa6c864efd8e5a084149753e815bc7112edaa6f26b1b45466"
+
+[[files]]
+file = "mods/moonlight-1.21-2.27.1-neoforge.jar"
+hash = "8bcd6324e86519b3f1445c948e6f7e799d28c5788f1882990eb6d05bd00b277b"
 
 [[files]]
 file = "mods/no-telemetry-1.9.0.hg77g4Pw.jar"
