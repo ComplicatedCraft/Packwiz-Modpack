@@ -161,6 +161,10 @@ file = "mods/create-1.21.1-6.0.6.jar"
 hash = "2d403500cd550db452a975ec3d4ba21b6097360d4dd575311112fe322055b1ee"
 
 [[files]]
+file = "mods/create-dyn-light-forge-1.21.1-2.0.1.jar"
+hash = "e2cb38a04c9808b559b7aeb0b21af9d50e86a40f9cf5f8a0975260e11d2b45d1"
+
+[[files]]
 file = "mods/create-track-map-2.0+mc1.21.1-neoforge.jar"
 hash = "9c6894856b3b57373f76a08083d80d658e179b80b0f535459ea1e2f377c0694f"
 
