@@ -257,10 +257,6 @@ file = "mods/kotlinforforge-5.10.0-all.jar"
 hash = "3f6e1d0e34c86e62abce3a9f86764a6861a2101aaa8858ada9d81f4588336efe"
 
 [[files]]
-file = "mods/lambdynamiclights-4.8.7+1.21.1.jar"
-hash = "30ce0c25f703d1a53540359447f11d35b411f5c75481555b0dc45ffa8d62006b"
-
-[[files]]
 file = "mods/lithium-neoforge-0.15.0+mc1.21.1.jar"
 hash = "8b671fa5486487c03d13543560a4909bc57c8933e200f62a7d79947aa48a8e41"
 
