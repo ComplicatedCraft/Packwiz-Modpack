@@ -18,51 +18,51 @@ hash = "9771894b8092e4434a82c4f8f37aa98ea865eb45a707d20d7bc5c73bca3e626a"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "7d4410bcfc1dcf3265c53842a57f0f9d95a07131d4de67116a9f65def0bcf54a"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "614394d0a90691f4eb275a9faf926dc8317d8e4f7ba745e9f822fd80ecd677a6"
+hash = "9bfce8b2f2241a394a05b2a9395983bf68d56ca19ad94ec5175423d39215045d"
 
 [[files]]
 file = "config/fancymenu/customization/connect_screen_layout.txt"
-hash = "63a25acfd11861d65b4d08f3ceaf220a464edcb34febba16a740fe279d3f0880"
+hash = "14165f90334807d5234644b98510ebf784bc2697176bd8ab77a3b264076c96d4"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "ddde3a127eb42390b392bc88c5f1e273cb4c2fe3e2ce209bdb75119a43c4a8f5"
+hash = "6dc73db610f8f2dfe4553be62b759e212743053fd424a7ae3d5bcd6e87288e0c"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "1efe839665a4f604b6c3852e897be2a565f65ab8d4750e9accc68de5518dc939"
+hash = "7779be0960bd301f396cba05ad8cb037d43305b0b9321478087891011f5a4d74"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "46e27b1c211b4fb0c45c380599c87eeecd9299ef8555e30adb0a842e40cf27cc"
+hash = "c7668213362bef74b011eb0fe6b7e544995b36b2fa70f5848c1c1890c411e7b0"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "5c57cd9570d4505fbdb2b651a7b2c9206beb5c26a173fa0fbf1f96d104c8eea5"
+hash = "e2bc51781333e5af405b2a76fba8f1f0d7e83589c63502dc24cad0a0ef194424"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
-hash = "878c9368bec63cd86822b28ceca345704ebaa411f7b72dd0bb4e682235b790e1"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "7b10c29e6452fbbcf3035f1c39e94459dd594c175b4c923179d7d54f3e338c4a"
+hash = "68820cf6cfbd70ab982b11189973b435ba4ae6fe47b795434eb8dcfcfe368489"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
-hash = "5705632148b4a26645020528c837c7bf23264cccfdcaf20b0e0f08445ff2b636"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
 
 [[files]]
 file = "config/fancymenu/ui_themes/light.json"
-hash = "9485218ff92634e63e1cb6cf0739b9177ddfeef0f5b8e2cc4863b398c0948dcb"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "1b287025595ebc2862c9506ced6505f23189bd6f79c03bac717ad56d90c68394"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "mods/AI-Improvements-1.21-0.5.3.jar"
