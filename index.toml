@@ -285,10 +285,6 @@ file = "mods/modflared-1.2.2+release.81.jar"
 hash = "abf1b1262f0b888fa6c864efd8e5a084149753e815bc7112edaa6f26b1b45466"
 
 [[files]]
-file = "mods/moonlight-1.21-2.27.1-neoforge.jar"
-hash = "153851387ebe87ad969164acf365c214005876ddb12437d200111d140d955ab7"
-
-[[files]]
 file = "mods/no-telemetry-1.9.0.hg77g4Pw.jar"
 hash = "2736522c5fec19471c54a665242eb4c314f35483b987c7a7c44fe1354a04542e"
 
@@ -347,10 +343,6 @@ hash = "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b"
 [[files]]
 file = "mods/supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar"
 hash = "6f43f2fa77968569927edefde859f1c46d7317c5519cdcefea729e9b84342420"
-
-[[files]]
-file = "mods/supplementaries-1.21-3.4.20-neoforge.jar"
-hash = "364449c88ad36a8fe6d893c23d9d458d33b12cd710f53fe642715e80c62578fa"
 
 [[files]]
 file = "mods/toms_storage-1.21-2.2.2.jar"
