@@ -197,10 +197,6 @@ file = "mods/dynamic-fps-3.9.5+minecraft-1.21.0-neoforge.LQ3K71Q1.jar"
 hash = "269ea911c14ba63c972b85f43ff4da1c940faae4e80a496d6416a5f683d1b7c2"
 
 [[files]]
-file = "mods/embeddium-1.0.15+mc1.21.1.jar"
-hash = "3aac4c4c6e82d78d8dda4c611d68c672d1061b42bb6954331e3c2e7f14c451e1"
-
-[[files]]
 file = "mods/enhancedgroups-neoforge-1.21.1-1.21.1-1.7.0.jar"
 hash = "6413469e14816ab5f9447787ada2db7491ae728820241dda5dbf6c4a8c621ee1"
 
@@ -239,6 +235,14 @@ hash = "626340f7a4ff1cf406d73da3d7e328c17818e8f41b983912333da47287143b56"
 [[files]]
 file = "mods/immersive_optimization-neoforge-1.21-0.1.0.jar"
 hash = "7ce5d8b5257b178d53a8da30bdb5b1bc297c031ba3545356ee64d041f5e46522"
+
+[[files]]
+file = "mods/iris-flywheel-compat-NeoForge-2.0.5.jar"
+hash = "9271d36c52f4dd1759e4bdd80fb61f5bdf8abfbd16f43cc22761a67d25cd83e7"
+
+[[files]]
+file = "mods/iris-neoforge-1.8.12+mc1.21.1.jar"
+hash = "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
 
 [[files]]
 file = "mods/jei-1.21.1-neoforge-19.25.0.323.u6dRKJwZ.jar"
@@ -323,6 +327,10 @@ hash = "528b60a3531819e6d5d4c98d8f858c39467b9234d2b5f20c31b48562073b67b0"
 [[files]]
 file = "mods/skinlayers3d-neoforge-1.9.2-mc1.21.1.zV5r3pPn.jar"
 hash = "d6864ecc8e7a169fcecbcdbaab024ff3b364f093abbedb041afe8515ee5628b8"
+
+[[files]]
+file = "mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
+hash = "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
 
 [[files]]
 file = "mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.PxQSWIcD.jar"
