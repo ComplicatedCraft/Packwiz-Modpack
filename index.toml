@@ -169,10 +169,6 @@ file = "mods/create-track-map-2.0+mc1.21.1-neoforge.jar"
 hash = "9c6894856b3b57373f76a08083d80d658e179b80b0f535459ea1e2f377c0694f"
 
 [[files]]
-file = "mods/create_pattern_schematics-2.0.10.jar"
-hash = "d6525b9ab9914a194ca5aa00e6605f5977d8ac28722cdccce018da44f62bc5c5"
-
-[[files]]
 file = "mods/createcontraptionterminals-1.21-1.2.0.gOPAFzp0.jar"
 hash = "230b8c4876569767e0b794669c1a09ba7d25fa03710d0a06be5c671d80751326"
 
