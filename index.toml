@@ -193,10 +193,6 @@ file = "mods/drippyloadingscreen_neoforge_3.0.12_MC_1.21.1.jar"
 hash = "a0d941bda35becbfbeaef02590cc2dd64228fa497a302292156192c2ee1e5c1e"
 
 [[files]]
-file = "mods/dye_depot-2.0.2-fix-neoforge.jar"
-hash = "105cec8d54df8fdd04e58b08fe0fd1df6968fa482607158f804371b6a30c4cc7"
-
-[[files]]
 file = "mods/dynamic-fps-3.9.5+minecraft-1.21.0-neoforge.LQ3K71Q1.jar"
 hash = "269ea911c14ba63c972b85f43ff4da1c940faae4e80a496d6416a5f683d1b7c2"
 
