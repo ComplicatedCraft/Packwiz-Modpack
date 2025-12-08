@@ -117,10 +117,6 @@ file = "mods/Resourcify (1.21.1-neoforge)-1.7.4.RLzHAoZe.jar"
 hash = "da166f021e1d3a30735ddee58e066891a272d39bed005507f9c99f2b089b193f"
 
 [[files]]
-file = "mods/ScalableLux-0.1.0.1+neoforge.1cb1e91-all.jar"
-hash = "74340a37af858014ecf66068054bed3ab778b22d24956d348a2ec2bc3c585cb5"
-
-[[files]]
 file = "mods/UniLib-1.2.0+1.21.1-neoforge.jar"
 hash = "222c72818cf71c78416ee729d07645be287e9c5ee3058aa9913350a99b35a4ea"
 
