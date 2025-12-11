@@ -141,6 +141,10 @@ file = "mods/bellsandwhistles-0.4.7-1.21.1.gJ5afkVv.jar"
 hash = "a438cf2ea3a05120e12342484f1e12ca11526fbf4195d259ce1d7df8a9b3ffca"
 
 [[files]]
+file = "mods/bettersafebed-neoforge-1.21-16.jar"
+hash = "652b5f99eece3f0bd46d2cf7cb71bfc4acad1b5541aa510a51379b4694123908"
+
+[[files]]
 file = "mods/bigcontraptions-neoforge-1.0.jv0UKGOX.jar"
 hash = "7ed381abb65639833e8ddb708124c60387823cf3db95bdadc5fceb1b5c37fec8"
 
