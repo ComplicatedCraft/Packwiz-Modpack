@@ -197,10 +197,6 @@ file = "mods/dynamic-fps-3.9.5+minecraft-1.21.0-neoforge.LQ3K71Q1.jar"
 hash = "269ea911c14ba63c972b85f43ff4da1c940faae4e80a496d6416a5f683d1b7c2"
 
 [[files]]
-file = "mods/enhancedgroups-neoforge-1.21.1-1.21.1-1.7.0.jar"
-hash = "6413469e14816ab5f9447787ada2db7491ae728820241dda5dbf6c4a8c621ee1"
-
-[[files]]
 file = "mods/entityculling-neoforge-1.9.3-mc1.21.1.NNAgCjsB.jar"
 hash = "d79464477f7f845091387529bf0c1e565d62551cdb1adb2a16dcf8c9d22bf200"
 
@@ -293,8 +289,16 @@ file = "mods/packetfixer-3.3.0-1.20.5-1.21.X-merged.jar"
 hash = "3285a55983d9c02b82d5707ab1e1fe942a81a5b7ea8c845e753ecdcd4ed5b1ab"
 
 [[files]]
+file = "mods/plasmovoice-neoforge-1.21-2.1.7.jar"
+hash = "de0c8ab212f24b44073ad26b5b8dafce58dda8828fbdfeab4c5eee3b927f7daf"
+
+[[files]]
 file = "mods/polymorph-neoforge-1.1.0+1.21.1.tagwiZkJ.jar"
 hash = "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b"
+
+[[files]]
+file = "mods/pv-addon-soundphysics-1.1.2.jar"
+hash = "cd7af450fbc5612674149476b8142392a8040f3961c222c653ecfd6f13f81615"
 
 [[files]]
 file = "mods/rechiseled-1.1.6a-neoforge-mc1.21.B0g2vT6l.jar"
@@ -337,6 +341,10 @@ file = "mods/sootychimneys-neoforge-1.3.3.b3w1XM9H.jar"
 hash = "31ce578443c84bd1bf1f5748f9eeac7cd1c35e242932de8959dfb8aaff6224f3"
 
 [[files]]
+file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
+hash = "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
+
+[[files]]
 file = "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
 hash = "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b"
 
@@ -347,10 +355,6 @@ hash = "6f43f2fa77968569927edefde859f1c46d7317c5519cdcefea729e9b84342420"
 [[files]]
 file = "mods/toms_storage-1.21-2.2.2.jar"
 hash = "56c0d14e3701d24b9e2bb6d96bf6870d6193157214f70186c896f925542024bf"
-
-[[files]]
-file = "mods/voicechat-neoforge-1.21.1-2.6.6.jar"
-hash = "d6b030f5e217d904aaca29c6e6f1a6b7365be6931db0bd7632e6385805b498b1"
 
 [[files]]
 file = "mods/watermedia-2.1.36.jar"
