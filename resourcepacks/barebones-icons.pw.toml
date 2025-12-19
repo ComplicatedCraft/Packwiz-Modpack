@@ -1,0 +1,13 @@
+name = "Bare Bones Icons"
+filename = "Barebones Icons v.1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/w9SxsTSQ/versions/pF6LmxWW/Barebones%20Icons%20v.1.0.zip"
+hash-format = "sha512"
+hash = "85a3f35e765f3e089869f1074e8219536fc6dace36ec6c57e06f47403dc7a08ddcfb62fe4602eb25a3a08612f3582cd3146f1ec96771c5d958ca4a4b6bdf4f57"
+
+[update]
+[update.modrinth]
+mod-id = "w9SxsTSQ"
+version = "pF6LmxWW"

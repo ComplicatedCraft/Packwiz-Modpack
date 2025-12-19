@@ -202,8 +202,18 @@ file = "mods/dynamic-fps-3.9.5+minecraft-1.21.0-neoforge.LQ3K71Q1.jar"
 hash = "269ea911c14ba63c972b85f43ff4da1c940faae4e80a496d6416a5f683d1b7c2"
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "774831f9dc9f530416b2d71ed08d52502dd6ccacbe4bd0d16adbf23701ce12bc"
+metafile = true
+
+[[files]]
 file = "mods/entityculling-neoforge-1.9.3-mc1.21.1.NNAgCjsB.jar"
 hash = "d79464477f7f845091387529bf0c1e565d62551cdb1adb2a16dcf8c9d22bf200"
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "c67d73440c55cc47a47ac8987da9cd01de3ad2a8f1480a304355c3e21092d2e4"
+metafile = true
 
 [[files]]
 file = "mods/exposure-neoforge-1.21.1-1.9.11.jar"
@@ -230,8 +240,9 @@ file = "mods/forgified-fabric-api-0.115.6+2.1.4+1.21.1.Aqlf1Shp.jar"
 hash = "c98b7d44a64348311b9be1a6a5565c0027590dbdb08a21817cb2347393b14c4e"
 
 [[files]]
-file = "mods/fusion-1.2.11b-neoforge-mc1.21.jar"
-hash = "626340f7a4ff1cf406d73da3d7e328c17818e8f41b983912333da47287143b56"
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "e51373d11dd600dd44909a31e1faa2276f951a0b0ee2f33bbcb2772b5b92b778"
+metafile = true
 
 [[files]]
 file = "mods/immersive_optimization-neoforge-1.21-0.1.0.jar"
@@ -256,6 +267,11 @@ hash = "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd"
 [[files]]
 file = "mods/kotlinforforge-5.10.0-all.jar"
 hash = "3f6e1d0e34c86e62abce3a9f86764a6861a2101aaa8858ada9d81f4588336efe"
+
+[[files]]
+file = "mods/libjf.pw.toml"
+hash = "bad11a528280073983e5ee82c23d99a633974c8057e5171bf6aa9cce89e00c4b"
+metafile = true
 
 [[files]]
 file = "mods/lithium-neoforge-0.15.0+mc1.21.1.jar"
@@ -319,6 +335,11 @@ file = "mods/reforgedplaymod-1.21.1-0.3.jar"
 hash = "608481672d6afbd0926427e58dcbfb1c66421d9364aa00e67696bcdc9c5f5cc0"
 
 [[files]]
+file = "mods/respackopts.pw.toml"
+hash = "8ab12a0231e93e8bd808545ef3734176e5a8866bf282128bb768c7887787c362"
+metafile = true
+
+[[files]]
 file = "mods/saturn-mc1.21.1-0.1.5.jar"
 hash = "f49f4b51faeb4e9eb7568723fa259c0da1c3460f8019597f04a54c2137b76c32"
 
@@ -373,3 +394,88 @@ hash = "b1aac4b9832e16439ee86f27814f7b6a42f2f6bea0ea6949dfffffcd0599d88c"
 [[files]]
 file = "mods/worldedit-mod-7.3.8.1u6JkXh5.jar"
 hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_FullyAgedCropMarker_MC1.21.x.zip"
+hash = "0c21a2accc36f6c073f8635928a1a1d1ef82960233f8e6dea204233ef71821ce"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_avisocultivos_MC1.21.x.zip"
+hash = "9f9d5952db0df59ade84d44225cd356c0ce76be968352565b0b4f1ac8c3e3a42"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_coloresvarios_MC1.21.x.zip"
+hash = "adeea227c1d7bc19364eea46a92362ce8cf9062bd05a4291519f3b1aaf585c39"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_oreborders_MC1.21.x.zip"
+hash = "e276430ffc7d03b2c86d49a8fe8cca65974e7dcb4d4dfb41fe0c2f55a11ba0f3"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_redstone_MC1.21.x.zip"
+hash = "3a238053d2bdf51bbd617f7e7d4b6412fdc7e04b6ccaf9cdee036d4754e2c486"
+
+[[files]]
+file = "resourcepacks/bare-bones-x-fresh-animations.pw.toml"
+hash = "35a47cff0408299315cc2cb731376dcf48119035a55ac1caa61693eb06d89672"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bare-bones.pw.toml"
+hash = "f30e9585b74079ea5d50996ea44bac9f0d980c83e86e44d58fd1467c19448a04"
+metafile = true
+
+[[files]]
+file = "resourcepacks/barebones-icons.pw.toml"
+hash = "a89a55b1422fbc8f6e33f5c28afbf73e9901763d4ea2434eb2d368f8aeb7dcd0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/created-simple-storage-network.pw.toml"
+hash = "b66026bea52d1890fc4bf818d37527a917fcff5d1903aeef8b19930fcc38491e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "d3571c12bae3b4ff244307f5f5bdfa1654175981eeda8d76059266eaa7d926fa"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "64f90fd9619a092a8a5493d6ad9605bc5fec13f50f02feef1dcf47c9496a80bd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fullbright-ub.pw.toml"
+hash = "6ef4d3cc75c46c4c9c021ce6a7a05d7a2c907265f0b77b5fb38d9a96511bc9c5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons-advertisement-removal.pw.toml"
+hash = "acd0132e2833554b79bceb4d733d36242f8967b2ddf32088dfadde17d524e130"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons-compats.pw.toml"
+hash = "1d08d638a21ebbefb2ccbb7fe9fbe27c1c321cf12717e2942230a32ed0024c46"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons.pw.toml"
+hash = "0f1f0274bd042b888a470955154102e0d540396e5b3af341d050f05253fdcc3f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tras-fresh-player.pw.toml"
+hash = "32fe0fe8941110f8fba07ce7768faa1797de6b28e961ab65b483c380fc0a365a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "3add1378e964947556ec43ebc86a431981cfa67c9b95353105d7f48deb58ff3d"
+metafile = true
