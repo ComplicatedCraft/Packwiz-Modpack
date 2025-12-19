@@ -411,6 +411,7 @@ hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
 [[files]]
 file = "options.txt"
 hash = "28d7107a4d9dbc33a2803ff471d3166d37e0dd85ab34aba10ca9ca06ccfbadf8"
+preserve = true
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_FullyAgedCropMarker_MC1.21.x.zip"
