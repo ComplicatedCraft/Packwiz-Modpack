@@ -319,6 +319,10 @@ file = "mods/polymorph-neoforge-1.1.0+1.21.1.tagwiZkJ.jar"
 hash = "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b"
 
 [[files]]
+file = "mods/pv-addon-replaymod-1.21.1-2.1.2.jar"
+hash = "a63b19ae6aaa909d97c6cbe1e0ccc6173701ab73e452c59aa03dcc691725b6cf"
+
+[[files]]
 file = "mods/pv-addon-soundphysics-1.1.2.jar"
 hash = "cd7af450fbc5612674149476b8142392a8040f3961c222c653ecfd6f13f81615"
 
