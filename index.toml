@@ -65,6 +65,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "1b287025595ebc2862c9506ced6505f23189bd6f79c03bac717ad56d90c68394"
 
 [[files]]
+file = "config/replaymod.json"
+hash = "c9a9178eb72370e85a23a2c82e549e444fb669dc0dddac60877f05c88c4836ed"
+
+[[files]]
 file = "mods/AI-Improvements-1.21-0.5.3.jar"
 hash = "795618769ff1ac782750be9e8faaf3e3d212f1687c3baab98c1282a98a63a41e"
 
@@ -403,6 +407,10 @@ hash = "b1aac4b9832e16439ee86f27814f7b6a42f2f6bea0ea6949dfffffcd0599d88c"
 [[files]]
 file = "mods/worldedit-mod-7.3.8.1u6JkXh5.jar"
 hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
+
+[[files]]
+file = "options.txt"
+hash = "28d7107a4d9dbc33a2803ff471d3166d37e0dd85ab34aba10ca9ca06ccfbadf8"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_FullyAgedCropMarker_MC1.21.x.zip"
