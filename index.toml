@@ -335,9 +335,8 @@ file = "mods/reforgedplaymod-1.21.1-0.3.jar"
 hash = "608481672d6afbd0926427e58dcbfb1c66421d9364aa00e67696bcdc9c5f5cc0"
 
 [[files]]
-file = "mods/respackopts.pw.toml"
-hash = "8ab12a0231e93e8bd808545ef3734176e5a8866bf282128bb768c7887787c362"
-metafile = true
+file = "mods/respackopts-4.14.0+1.21.1.forge.1.jar"
+hash = "f348c287cde9f1ad4de3e1bdb991a6dd1f3f9cee7a031033d96d9ae81a799ce8"
 
 [[files]]
 file = "mods/saturn-mc1.21.1-0.1.5.jar"
