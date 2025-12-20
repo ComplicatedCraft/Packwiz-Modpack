@@ -177,11 +177,6 @@ file = "mods/create-track-map-2.0+mc1.21.1-neoforge.jar"
 hash = "9c6894856b3b57373f76a08083d80d658e179b80b0f535459ea1e2f377c0694f"
 
 [[files]]
-file = "mods/create.pw.toml"
-hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
-metafile = true
-
-[[files]]
 file = "mods/createcontraptionterminals-1.21-1.2.0.gOPAFzp0.jar"
 hash = "230b8c4876569767e0b794669c1a09ba7d25fa03710d0a06be5c671d80751326"
 
