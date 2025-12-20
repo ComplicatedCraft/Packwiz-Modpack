@@ -177,6 +177,11 @@ file = "mods/create-track-map-2.0+mc1.21.1-neoforge.jar"
 hash = "9c6894856b3b57373f76a08083d80d658e179b80b0f535459ea1e2f377c0694f"
 
 [[files]]
+file = "mods/create.pw.toml"
+hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
+metafile = true
+
+[[files]]
 file = "mods/createcontraptionterminals-1.21-1.2.0.gOPAFzp0.jar"
 hash = "230b8c4876569767e0b794669c1a09ba7d25fa03710d0a06be5c671d80751326"
 
@@ -246,6 +251,11 @@ hash = "c98b7d44a64348311b9be1a6a5565c0027590dbdb08a21817cb2347393b14c4e"
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "e51373d11dd600dd44909a31e1faa2276f951a0b0ee2f33bbcb2772b5b92b778"
+metafile = true
+
+[[files]]
+file = "mods/hypertube.pw.toml"
+hash = "98f84329c989e88bd967c5a1493df8a8154ec24c7b24cc0ca62ef64c79b611c2"
 metafile = true
 
 [[files]]
