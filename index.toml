@@ -121,10 +121,6 @@ file = "mods/UniLib-1.2.0+1.21.1-neoforge.jar"
 hash = "222c72818cf71c78416ee729d07645be287e9c5ee3058aa9913350a99b35a4ea"
 
 [[files]]
-file = "mods/Xaeros_Minimap_25.2.10_NeoForge_1.21.jar"
-hash = "35d5217f497d7747a78670b0280b28dc22630a244ffd93a09c4cf8789b9353ba"
-
-[[files]]
 file = "mods/alternate_current-mc1.21-1.9.0.jar"
 hash = "d23731fcb31cf561544fd7a97b0076b3abb42a0ece0631f86de9a1425fe046f5"
 
@@ -194,7 +190,7 @@ hash = "51631275e116a9e3cbe695d4a7da1ead14954a4f4302daf4a207404f6e745a19"
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "5a7c1b20dfbc7f9d4816afe5f0a842d8cb718f6c08e7f78aef47bababe8c078a"
+hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
 metafile = true
 
 [[files]]
@@ -412,6 +408,26 @@ hash = "b1aac4b9832e16439ee86f27814f7b6a42f2f6bea0ea6949dfffffcd0599d88c"
 [[files]]
 file = "mods/worldedit-mod-7.3.8.1u6JkXh5.jar"
 hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
+
+[[files]]
+file = "mods/xaero-train-map.pw.toml"
+hash = "055508f48abfc3dc9705337d324fe839bbc88cd5cd06ce77f65b4bd2c976a983"
+metafile = true
+
+[[files]]
+file = "mods/xaero-zoomout.pw.toml"
+hash = "89e8aa3851da2a224d65258ff1fb63210095c38ceb28cbd524af195f01cdfac7"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "473b998b1acd6c14874f9db9ae5986b1de92820456de2ff57ad4f8b2d64ccfff"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "6d531ca789931cf437a72fef1a868a51d8afe4db12565a525e71c154304f4e29"
+metafile = true
 
 [[files]]
 file = "options.txt"
