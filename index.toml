@@ -153,6 +153,11 @@ file = "mods/carryon-neoforge-1.21.1-2.2.2.11.jar"
 hash = "b18c734fb574c05c78dd33c4cd4c152e55efc8aecc0b6de876cc21be3c147f7f"
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "766794fd8abb18e15b0bcbd2de09557120702f8e015b56012632ad4e4cae7408"
+metafile = true
+
+[[files]]
 file = "mods/copycats-3.0.2+mc.1.21.1-neoforge.UT2M39wf.jar"
 hash = "8caf0e53cf250e1cc2811d49e9ea46f3c691f65c3522b55c19e24a411d1354ef"
 
@@ -386,12 +391,14 @@ file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
 hash = "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
 
 [[files]]
-file = "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
-hash = "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b"
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "2e42245826ce70d4ad673addb0e5244da388841f1484f03ee5a9426ee33b2229"
+metafile = true
 
 [[files]]
-file = "mods/supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar"
-hash = "6f43f2fa77968569927edefde859f1c46d7317c5519cdcefea729e9b84342420"
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "b8a7c1f7b37d636e90bfb6274792e9a619d4f5388b60a0e1c0f2c547d0a6210c"
+metafile = true
 
 [[files]]
 file = "mods/toms_storage-1.21-2.2.2.jar"
