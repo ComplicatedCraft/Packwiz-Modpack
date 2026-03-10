@@ -298,10 +298,6 @@ file = "mods/lithium-neoforge-0.15.0+mc1.21.1.jar"
 hash = "8b671fa5486487c03d13543560a4909bc57c8933e200f62a7d79947aa48a8e41"
 
 [[files]]
-file = "mods/mc-world-export-0.9.3.jar"
-hash = "5f43d57ae6199d1f2edb90bf44f3e542fc64a237d3cbd61e767dec59dbc1b700"
-
-[[files]]
 file = "mods/mcef-neoforge-2.1.6-1.21.1.jar"
 hash = "0c7696216fa5cfee659d687475873c847a9a17cc8ce3a56119a69c946eeb8772"
 
@@ -399,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/toms_storage-1.21-2.2.2.jar"
 hash = "56c0d14e3701d24b9e2bb6d96bf6870d6193157214f70186c896f925542024bf"
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
+metafile = true
 
 [[files]]
 file = "mods/watut-neoforge-1.21.0-1.2.7.AtB5mHky.jar"
