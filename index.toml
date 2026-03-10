@@ -222,10 +222,6 @@ file = "mods/polymorph-neoforge-1.1.0+1.21.1.tagwiZkJ.jar"
 hash = "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b"
 
 [[files]]
-file = "mods/pv-addon-soundphysics-1.1.2.jar"
-hash = "cd7af450fbc5612674149476b8142392a8040f3961c222c653ecfd6f13f81615"
-
-[[files]]
 file = "mods/rechiseled-1.1.6a-neoforge-mc1.21.B0g2vT6l.jar"
 hash = "7e64fa40a2c54fd139d1a02b121260cf3c543638924ac09e25dd5b795fc1ccb4"
 
@@ -266,10 +262,6 @@ file = "mods/sootychimneys-neoforge-1.3.3.b3w1XM9H.jar"
 hash = "31ce578443c84bd1bf1f5748f9eeac7cd1c35e242932de8959dfb8aaff6224f3"
 
 [[files]]
-file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
-hash = "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
-
-[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "2e42245826ce70d4ad673addb0e5244da388841f1484f03ee5a9426ee33b2229"
 metafile = true
@@ -282,15 +274,6 @@ metafile = true
 [[files]]
 file = "mods/toms_storage-1.21-2.2.2.jar"
 hash = "56c0d14e3701d24b9e2bb6d96bf6870d6193157214f70186c896f925542024bf"
-
-[[files]]
-file = "mods/watermedia.pw.toml"
-hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
-metafile = true
-
-[[files]]
-file = "mods/watut-neoforge-1.21.0-1.2.7.AtB5mHky.jar"
-hash = "b1aac4b9832e16439ee86f27814f7b6a42f2f6bea0ea6949dfffffcd0599d88c"
 
 [[files]]
 file = "mods/worldedit-mod-7.3.8.1u6JkXh5.jar"
