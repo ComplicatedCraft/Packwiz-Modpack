@@ -1,80 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fancymenu/assets/Miniview.png"
-hash = "26f0da5866839d6f175f77eeebffbfce3b94ba5eafd4c125c688c45a91178f64"
-
-[[files]]
-file = "config/fancymenu/assets/window-icon/16.png"
-hash = "ffa9c1b2c20feda6f03f9dcc3d615907a751df90b76dd93f015169c3c316cc77"
-
-[[files]]
-file = "config/fancymenu/assets/window-icon/32.png"
-hash = "fd72892bebfdc21ed796ecd1142915fc4b67d2ce458d508b94fd5f1a4e14c1a7"
-
-[[files]]
-file = "config/fancymenu/assets/window-icon/mac.icns"
-hash = "9771894b8092e4434a82c4f8f37aa98ea865eb45a707d20d7bc5c73bca3e626a"
-
-[[files]]
-file = "config/fancymenu/custom_gui_screens.txt"
-hash = "7d4410bcfc1dcf3265c53842a57f0f9d95a07131d4de67116a9f65def0bcf54a"
-
-[[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "614394d0a90691f4eb275a9faf926dc8317d8e4f7ba745e9f822fd80ecd677a6"
-
-[[files]]
-file = "config/fancymenu/customization/connect_screen_layout.txt"
-hash = "63a25acfd11861d65b4d08f3ceaf220a464edcb34febba16a740fe279d3f0880"
-
-[[files]]
-file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "ddde3a127eb42390b392bc88c5f1e273cb4c2fe3e2ce209bdb75119a43c4a8f5"
-
-[[files]]
-file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "1efe839665a4f604b6c3852e897be2a565f65ab8d4750e9accc68de5518dc939"
-
-[[files]]
-file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "46e27b1c211b4fb0c45c380599c87eeecd9299ef8555e30adb0a842e40cf27cc"
-
-[[files]]
-file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "5c57cd9570d4505fbdb2b651a7b2c9206beb5c26a173fa0fbf1f96d104c8eea5"
-
-[[files]]
-file = "config/fancymenu/legacy_checklist.txt"
-hash = "878c9368bec63cd86822b28ceca345704ebaa411f7b72dd0bb4e682235b790e1"
-
-[[files]]
-file = "config/fancymenu/options.txt"
-hash = "7b10c29e6452fbbcf3035f1c39e94459dd594c175b4c923179d7d54f3e338c4a"
-
-[[files]]
-file = "config/fancymenu/ui_themes/dark.json"
-hash = "5705632148b4a26645020528c837c7bf23264cccfdcaf20b0e0f08445ff2b636"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light.json"
-hash = "9485218ff92634e63e1cb6cf0739b9177ddfeef0f5b8e2cc4863b398c0948dcb"
-
-[[files]]
-file = "config/fancymenu/user_variables.db"
-hash = "1b287025595ebc2862c9506ced6505f23189bd6f79c03bac717ad56d90c68394"
-
-[[files]]
-file = "config/replaymod.json"
-hash = "c9a9178eb72370e85a23a2c82e549e444fb669dc0dddac60877f05c88c4836ed"
-
-[[files]]
 file = "mods/AI-Improvements-1.21-0.5.3.jar"
 hash = "795618769ff1ac782750be9e8faaf3e3d212f1687c3baab98c1282a98a63a41e"
-
-[[files]]
-file = "mods/AdvancedBackups-neoforge-1.21-3.7.1.jar"
-hash = "50a3699f05952035bbbd2b5f3e9e11fcc43bfc9d5fee8c104b4ed7b32ef496be"
 
 [[files]]
 file = "mods/Chunky-NeoForge-1.4.23.fALzjamp.jar"
@@ -83,10 +11,6 @@ hash = "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
 [[files]]
 file = "mods/Clumps-neoforge-1.21.1-19.0.0.1.Wnxd13zP.jar"
 hash = "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e"
-
-[[files]]
-file = "mods/CraftPresence-2.7.0+1.21.1-neoforge.DFqQfIBR.jar"
-hash = "a5810b430aab2117f2b159cb14b6fb46fae38f73ab7050547516fcc3834e903b"
 
 [[files]]
 file = "mods/CreativeCore_NEOFORGE_v2.13.13_mc1.21.1.jar"
@@ -145,10 +69,6 @@ file = "mods/bigcontraptions-neoforge-1.0.jv0UKGOX.jar"
 hash = "7ed381abb65639833e8ddb708124c60387823cf3db95bdadc5fceb1b5c37fec8"
 
 [[files]]
-file = "mods/c2me-neoforge-mc1.21.1-0.3.0+alpha.0.87.jar"
-hash = "d2d8fbc94f47f57ba9984a7a71fbef7c6f942a1061189ec60b7dc3411701e80d"
-
-[[files]]
 file = "mods/carryon-neoforge-1.21.1-2.2.2.11.jar"
 hash = "b18c734fb574c05c78dd33c4cd4c152e55efc8aecc0b6de876cc21be3c147f7f"
 
@@ -194,19 +114,6 @@ file = "mods/curtain-mc1.21-1.3.2+build.314.jar"
 hash = "51631275e116a9e3cbe695d4a7da1ead14954a4f4302daf4a207404f6e745a19"
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
-metafile = true
-
-[[files]]
-file = "mods/drippyloadingscreen_neoforge_3.0.12_MC_1.21.1.jar"
-hash = "a0d941bda35becbfbeaef02590cc2dd64228fa497a302292156192c2ee1e5c1e"
-
-[[files]]
-file = "mods/dynamic-fps-3.9.5+minecraft-1.21.0-neoforge.LQ3K71Q1.jar"
-hash = "269ea911c14ba63c972b85f43ff4da1c940faae4e80a496d6416a5f683d1b7c2"
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "774831f9dc9f530416b2d71ed08d52502dd6ccacbe4bd0d16adbf23701ce12bc"
 metafile = true
@@ -233,10 +140,6 @@ file = "mods/fancy-entity-renderer-neoforge-1.21-0.4.1.jar"
 hash = "b9d5d4abf8091acabebce2a48f0d1af85b7ece543d8b6f903f83474f92f27b00"
 
 [[files]]
-file = "mods/fancymenu_neoforge_3.7.0_MC_1.21.1.jar"
-hash = "3c6cce7ef18254c13e2e061cb882160c9d00f91b09bb589423baccc4f4366462"
-
-[[files]]
 file = "mods/ferritecore-7.0.2-neoforge.uXXizFIs.jar"
 hash = "235e2081dfe050d7642b0d432a786668f079168505ba5d6bf0ec70c962a36539"
 
@@ -257,14 +160,6 @@ metafile = true
 [[files]]
 file = "mods/immersive_optimization-neoforge-1.21-0.1.0.jar"
 hash = "7ce5d8b5257b178d53a8da30bdb5b1bc297c031ba3545356ee64d041f5e46522"
-
-[[files]]
-file = "mods/iris-flywheel-compat-NeoForge-2.0.5.jar"
-hash = "9271d36c52f4dd1759e4bdd80fb61f5bdf8abfbd16f43cc22761a67d25cd83e7"
-
-[[files]]
-file = "mods/iris-neoforge-1.8.12+mc1.21.1.jar"
-hash = "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
 
 [[files]]
 file = "mods/jei-1.21.1-neoforge-19.25.0.323.u6dRKJwZ.jar"
@@ -298,16 +193,8 @@ file = "mods/lithium-neoforge-0.15.0+mc1.21.1.jar"
 hash = "8b671fa5486487c03d13543560a4909bc57c8933e200f62a7d79947aa48a8e41"
 
 [[files]]
-file = "mods/mcef-neoforge-2.1.6-1.21.1.jar"
-hash = "0c7696216fa5cfee659d687475873c847a9a17cc8ce3a56119a69c946eeb8772"
-
-[[files]]
 file = "mods/melody_neoforge_1.0.10_MC_1.21.jar"
 hash = "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871"
-
-[[files]]
-file = "mods/modernfix-neoforge-5.25.1+mc1.21.1.jar"
-hash = "2dbcf6cd837fca938323dd55114e6c515a4bb1b644a746aad504dd8d43bb0b6d"
 
 [[files]]
 file = "mods/modflared-1.2.2+release.81.jar"
