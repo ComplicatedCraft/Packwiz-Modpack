@@ -351,10 +351,6 @@ file = "mods/rechiseledcreate-1.0.2a-neoforge-mc1.21.E6867niZ.jar"
 hash = "a9bb3a70c3a7356b1cde0ad598927ad22992b54b4e7b05f2cedb4f2c17cb2381"
 
 [[files]]
-file = "mods/reforgedplaymod-1.21.1-0.3.jar"
-hash = "608481672d6afbd0926427e58dcbfb1c66421d9364aa00e67696bcdc9c5f5cc0"
-
-[[files]]
 file = "mods/respackopts-4.14.0+1.21.1.forge.1.jar"
 hash = "f348c287cde9f1ad4de3e1bdb991a6dd1f3f9cee7a031033d96d9ae81a799ce8"
 
@@ -403,10 +399,6 @@ metafile = true
 [[files]]
 file = "mods/toms_storage-1.21-2.2.2.jar"
 hash = "56c0d14e3701d24b9e2bb6d96bf6870d6193157214f70186c896f925542024bf"
-
-[[files]]
-file = "mods/watermedia-2.1.36.jar"
-hash = "9f2b54c4d5c9d680ee8a50e0bed1d982d0667d3ee7097765effcae6b2478d690"
 
 [[files]]
 file = "mods/watut-neoforge-1.21.0-1.2.7.AtB5mHky.jar"
