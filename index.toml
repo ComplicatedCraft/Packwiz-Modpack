@@ -256,12 +256,8 @@ file = "mods/ferritecore-7.0.2-neoforge.uXXizFIs.jar"
 hash = "235e2081dfe050d7642b0d432a786668f079168505ba5d6bf0ec70c962a36539"
 
 [[files]]
-file = "mods/forgified-fabric-api-0.115.6+2.1.4+1.21.1.Aqlf1Shp.jar"
-hash = "c98b7d44a64348311b9be1a6a5565c0027590dbdb08a21817cb2347393b14c4e"
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "15219e64b45e53db93de94091172e6a4c5ae9a749710ce91a615c973a552c215"
+hash = "b989729cab0761ba1f822d9e95afbf914b90b5ebf1cac27e5a41869dda291952"
 metafile = true
 
 [[files]]
