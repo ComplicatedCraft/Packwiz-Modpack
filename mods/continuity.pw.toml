@@ -1,8 +1,0 @@
-name = "Continuity"
-filename = "continuity-3.0.0+1.21.1.neoforge.jar"
-side = "both"
-
-[download]
-url = "https://github.com/ComplicatedCraft/Continuity/releases/download/v3.0.0%2B1.21.1/continuity-3.0.0+1.21.1.neoforge.jar"
-hash-format = "sha256"
-hash = "f1380a741065ccd0d1c862925331e7ea2ca583ce1783ece95db277d0088f77f9"
